@@ -1,4 +1,4 @@
-# Network Design Sekolah
+# Network Design School
 
 ## Deskripsi
 
