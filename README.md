@@ -1,8 +1,8 @@
-# Network Design School
+# Simple Network Design School
 
 ## Deskripsi
 
-Proyek simulasi jaringan sekolah menggunakan Cisco Packet Tracer dengan implementasi VLAN, trunking, dan inter-VLAN routing (Router-on-a-Stick).
+Proyek simulasi jaringan sekolah simple  menggunakan Cisco Packet Tracer dengan implementasi VLAN, trunking, dan inter-VLAN routing (Router-on-a-Stick).
 
 ## Topologi
 
