@@ -2,14 +2,22 @@
 
 ## Deskripsi
 
-Simulasi jaringan sekolah menggunakan Cisco Packet Tracer.
+Proyek simulasi jaringan sekolah menggunakan Cisco Packet Tracer dengan implementasi VLAN, trunking, dan inter-VLAN routing (Router-on-a-Stick).
 
+## Topologi
+
+- 1 Router
+- 1 Switch
+- 3 Hub Utama
+- 6 Hub Cabang
+- 24 Pc
+  
 ## Fitur
 
-- VLAN Guru
-- VLAN Laboratorium
-- VLAN Tata Usaha
-- Routing antar VLAN
+- VLAN Configuration
+- Trunk Configuration
+- Inter-VLAN Routing
+- Connectivity Testing
 
 ## IP Address Plan
 
@@ -25,4 +33,4 @@ Simulasi jaringan sekolah menggunakan Cisco Packet Tracer.
 
 ## Hasil
 
-Seluruh VLAN dapat berkomunikasi melalui router.
+Seluruh perangkat pada VLAN yang berbeda dapat saling berkomunikasi melalui router menggunakan metode Router-on-a-Stick.
